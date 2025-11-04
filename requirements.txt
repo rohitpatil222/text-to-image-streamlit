@@ -1,0 +1,7 @@
+streamlit>=1.20
+requests
+Pillow
+# Optional GPU support
+torch --extra-index-url https://download.pytorch.org/whl/cu118
+diffusers[torch]
+transformers

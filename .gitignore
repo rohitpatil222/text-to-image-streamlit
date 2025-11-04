@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pt
+*.dll
+*.log
+
+# Virtual environments
+t2i_venv/
+venv/
+.env/
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# System files
+.DS_Store
+Thumbs.db

@@ -1,4 +1,4 @@
-# 🖼️ Text-to-Image Streamlit App
+# 🖼️ Text-to-Image
 
 A Streamlit app that converts **text prompts** into **AI-generated images** using:
 - **Hugging Face Inference API** (recommended)
